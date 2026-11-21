@@ -1,0 +1,6 @@
+{
+  "name": "Moringa OS",
+  "description": "Cross-platform operating system workbench compatible with Linux, Windows, and macOS applications, featuring a bootable USB creator, hardware-isolated virtual sandbox, and touch/keyboard adaptive shell by Wrld Xavier (Wrld Tech).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
